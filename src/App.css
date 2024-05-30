@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(15,17,26);
+  }
+  
+  * {
+    box-sizing: inherit;
+  }
+  
+  .min-h-screen {
+    min-height: 100vh;
+  }
+  
+  .bg-gray-900 {
+    background-color: #1a202c;
+  }
+  .text-stroke {
+    -webkit-text-stroke: 1px red; /* Anchura y color del borde */
+  }
